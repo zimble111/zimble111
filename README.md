@@ -1,16 +1,33 @@
-## Hi there 👋
+<body>
+  <center>
+<h1 align="center">𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝚖𝚢 𝚙𝚛𝚘𝚏𝚒𝚕𝚎</h1>
+</center>
+</body>
 
-<!--
-**zimble111/zimble111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
+- 🧠 𝙼𝙻 𝚎𝚗𝚝𝚑𝚞𝚜𝚒𝚊𝚜𝚝 𝚏𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚍𝚎𝚎𝚙 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐, 𝚕𝚊𝚗𝚐𝚞𝚊𝚐𝚎 𝚖𝚘𝚍𝚎𝚕𝚜 𝚊𝚗𝚍 𝚐𝚎𝚗𝚎𝚛𝚊𝚝𝚒𝚟𝚎 𝙰𝙸
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙼𝙻/𝙳𝙻 𝚊𝚗𝚍 𝚍𝚘𝚒𝚗𝚐 𝚙𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝚠𝚒𝚝𝚑 𝙿𝚢𝚃𝚘𝚛𝚌𝚑 & 𝙷𝚞𝚐𝚐𝚒𝚗𝚐𝙵𝚊𝚌𝚎
+- 💡 𝙸 𝚋𝚞𝚒𝚕𝚍 𝚝𝚘𝚘𝚕𝚜 𝚝𝚘 𝚊𝚞𝚝𝚘𝚖𝚊𝚝𝚎 𝚝𝚑𝚎 𝚋𝚘𝚛𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚡𝚙𝚕𝚘𝚛𝚎 𝚝𝚑𝚎 𝚌𝚘𝚘𝚕
+- 📘 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝙳𝚊𝚝𝚊 𝚂𝚌𝚒𝚎𝚗𝚌𝚎 𝚊𝚗𝚍 𝙱𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝙰𝚗𝚊𝚕𝚢𝚝𝚒𝚌𝚜  
+  𝚊𝚝 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚘𝚏 𝙻𝚘𝚗𝚍𝚘𝚗 𝚊𝚗𝚍 𝙷𝚒𝚐𝚑𝚎𝚛 𝚂𝚌𝚑𝚘𝚘𝚕 𝚘𝚏 𝙴𝚌𝚘𝚗𝚘𝚖𝚒𝚌𝚜
 
-Here are some ideas to get you started:
+## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 𝚊 𝚖𝚞𝚕𝚝𝚒-𝚖𝚘𝚍𝚊𝚕 𝚟𝚘𝚒𝚌𝚎 𝚊𝚜𝚜𝚒𝚜𝚝𝚊𝚗𝚝 (𝚟𝚘𝚡)
+- 𝙴𝚡𝚙𝚕𝚘𝚛𝚒𝚗𝚐 𝚋𝚒𝚘-𝚜𝚒𝚖𝚞𝚕𝚊𝚝𝚒𝚘𝚗 𝚖𝚘𝚍𝚎𝚕𝚜
+- 𝙰𝚗𝚊𝚕𝚢𝚣𝚒𝚗𝚐 𝚌𝚛𝚒𝚖𝚎 𝚍𝚊𝚝𝚊 𝚊𝚌𝚛𝚘𝚜𝚜 𝚄𝚂 𝚌𝚒𝚝𝚒𝚎𝚜
+- 𝙲𝚘𝚖𝚋𝚒𝚗𝚒𝚗𝚐 𝙿𝚢𝚝𝚑𝚘𝚗 + 𝙹𝚞𝚙𝚢𝚝𝚎𝚛 𝚏𝚘𝚛 𝚎𝚡𝚙𝚕𝚘𝚛𝚊𝚝𝚘𝚛𝚢 𝚊𝚗𝚊𝚕𝚢𝚜𝚒𝚜
+
+
+## 🧠 𝙼𝚢 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜  
+- [`vox`](https://github.com/zimble111/vox) – 𝙿𝚢𝚀𝚝𝟼 𝚟𝚘𝚒𝚌𝚎 𝚊𝚜𝚜𝚒𝚜𝚝𝚊𝚗𝚝 𝚠𝚒𝚝𝚑 𝙲𝚑𝚊𝚝𝙶𝙿𝚃 + 𝚂𝚙𝚘𝚝𝚒𝚏𝚢  
+- [`GunCrimesinUs`](https://github.com/zimble111/GunCrimesinUs) – 𝙳𝚊𝚝𝚊 𝚟𝚒𝚜𝚞𝚊𝚕𝚜 𝚘𝚗 𝚞𝚛𝚋𝚊𝚗 𝚌𝚛𝚒𝚖𝚎  
+- [`bio_model_adaptive_dynamics`](https://github.com/zimble111/bio_model_adaptive_dynamics) – 𝙱𝚒𝚘𝚕𝚘𝚐𝚢-𝚒𝚗𝚜𝚙𝚒𝚛𝚎𝚍 𝚍𝚢𝚗𝚊𝚖𝚒𝚌 𝚜𝚢𝚜𝚝𝚎𝚖  
+- [`close2`](https://github.com/zimble111/close2) – 𝚂𝚠𝚒𝚏𝚝 𝚙𝚛𝚘𝚝𝚘𝚝𝚢𝚙𝚎 𝚘𝚏 𝚊 𝚖𝚘𝚋𝚒𝚕𝚎 𝚊𝚙𝚙
+
+## 📫 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎  
+[Telegram](https://t.me/zimbIe0_0) • 𝙴𝚖𝚊𝚒𝚕 𝚒𝚜 𝚒𝚗 𝚙𝚛𝚘𝚏𝚒𝚕𝚎
+
+---
+
+> 𝙼𝚊𝚍𝚎 𝚠𝚒𝚝𝚑 𝚜𝚘𝚖𝚎 𝚌𝚘𝚍𝚎, 𝚊 𝚕𝚒𝚝𝚝𝚕𝚎 𝚖𝚊𝚐𝚒𝚌, 𝚊𝚗𝚍 𝚊 𝚋𝚒𝚝 𝚘𝚏 𝚍𝚊𝚝𝚊 ✨
